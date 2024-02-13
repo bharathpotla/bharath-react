@@ -1,0 +1,23 @@
+{
+  "name": "bharath-react",
+  "version": "1.0.0",
+  "description": "this is bharat testing project",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bharathpotla/bharath-react.git"
+  },
+  "keywords": [
+    "bharath",
+    "react"
+  ],
+  "author": "bharat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bharathpotla/bharath-react/issues"
+  },
+  "homepage": "https://github.com/bharathpotla/bharath-react#readme"
+}
